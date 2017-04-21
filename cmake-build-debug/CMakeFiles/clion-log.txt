@@ -1,0 +1,10 @@
+/home/peter/clion-2016.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/peter/FYP/FastLSH-MPI
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   mpi
+--   serialization
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/peter/FYP/FastLSH-MPI/cmake-build-debug
