@@ -33,5 +33,5 @@ change parameters between line 183-193
 Single Node:  
   `mpiexec -np 1 btl ^openib ./boostmpiLSH`  
 Multi Nodes:  
-  `mpiexec -np 4 -host <node1>, <node2>, <node3>, <node4> -mca btl ^openib ./boostmpiLSH`
+  `mpiexec -np 4 -host <node1>, <node2>, <node3>, <node4>   -mca btl ^openib ./boostmpiLSH`
 
