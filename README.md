@@ -1,3 +1,6 @@
+![FastLSH_LOGO](https://cloud.githubusercontent.com/assets/11495951/26155029/62aaf49a-3b44-11e7-8685-5f351001d4b9.png)  
+
+
 # FastLSH-MPI
 MPI (Message Passing Interface) version of FastLSH. It have been tested on Ubuntu 14.04, 16.04
 
